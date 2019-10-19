@@ -1272,3 +1272,21 @@ patch:
         patched: '2019-10-19T09:21:23.019Z'
     - truffle-hdwallet-provider > web3-provider-engine > eth-json-rpc-infura > eth-json-rpc-middleware > eth-tx-summary > web3-provider-engine > eth-block-tracker > json-rpc-engine > babel-preset-env > babel-plugin-transform-async-to-generator > babel-helper-remap-async-to-generator > babel-helper-function-name > babel-template > babel-traverse > babel-types > lodash:
         patched: '2019-10-19T09:21:23.019Z'
+    - snyk > @snyk/dep-graph > lodash:
+        patched: '2019-10-19T09:23:57.314Z'
+    - snyk > snyk-nuget-plugin > dotnet-deps-parser > lodash:
+        patched: '2019-10-19T09:23:57.314Z'
+    - snyk > snyk-nodejs-lockfile-parser > graphlib > lodash:
+        patched: '2019-10-19T09:23:57.314Z'
+    - snyk > @snyk/dep-graph > graphlib > lodash:
+        patched: '2019-10-19T09:23:57.314Z'
+    - snyk > @snyk/snyk-cocoapods-plugin > @snyk/dep-graph > lodash:
+        patched: '2019-10-19T09:23:57.314Z'
+    - snyk > snyk-go-plugin > graphlib > lodash:
+        patched: '2019-10-19T09:23:57.314Z'
+    - snyk > @snyk/snyk-cocoapods-plugin > @snyk/cocoapods-lockfile-parser > @snyk/dep-graph > lodash:
+        patched: '2019-10-19T09:23:57.314Z'
+    - snyk > @snyk/snyk-cocoapods-plugin > @snyk/dep-graph > graphlib > lodash:
+        patched: '2019-10-19T09:23:57.314Z'
+    - snyk > @snyk/snyk-cocoapods-plugin > @snyk/cocoapods-lockfile-parser > @snyk/dep-graph > graphlib > lodash:
+        patched: '2019-10-19T09:23:57.314Z'
