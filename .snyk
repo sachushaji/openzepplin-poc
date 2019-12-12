@@ -1,5 +1,5 @@
 # Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
-version: v1.13.5
+version: v1.14.0
 ignore: {}
 # patches apply the minimum changes required to fix a vulnerability
 patch:
@@ -2558,3 +2558,6 @@ patch:
         patched: '2019-10-19T09:32:23.646Z'
     - truffle-hdwallet-provider > web3-provider-engine > eth-json-rpc-infura > eth-json-rpc-middleware > eth-tx-summary > web3-provider-engine > eth-block-tracker > json-rpc-engine > babel-preset-env > babel-plugin-transform-async-to-generator > babel-helper-remap-async-to-generator > babel-helper-function-name > babel-template > babel-traverse > babel-types > lodash:
         patched: '2019-10-19T09:32:23.646Z'
+  SNYK-JS-TREEKILL-536781:
+    - snyk > snyk-sbt-plugin > tree-kill:
+        patched: '2019-12-12T07:52:34.199Z'
