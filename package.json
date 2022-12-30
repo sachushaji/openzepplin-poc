@@ -10,7 +10,7 @@
     "openzeppelin-solidity": "^2.0.0",
     "truffle": "^5.0.24",
     "truffle-flattener": "^1.2.9",
-    "truffle-hdwallet-provider": "0.0.6",
+    "truffle-hdwallet-provider": "1.0.17",
     "snyk": "^1.236.1"
   },
   "devDependencies": {
